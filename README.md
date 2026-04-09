@@ -1,2 +1,3 @@
-# BONIALcion
+# BONIALcoin
+
 Token test 
